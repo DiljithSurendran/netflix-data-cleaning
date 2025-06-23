@@ -38,5 +38,5 @@ Submission Link:
 https://forms.gle/o2uMAByM719GzebC7
 
 Author:
-Apoorva P
+Diljith Surendran
 BCA Data Science Student
